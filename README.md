@@ -1,4 +1,4 @@
-# Gesture-recognition-using-EMG-signal-and-adaptive-gain-control-with-change-in-Impedance-of-skin.
+# Gesture-recognition-using-EMG-signal-with-exsisting-dataset-from-kaggel.
 ## EMG Gesture Recognition System
 
 This repository contains the machine learning pipeline and live inference scripts for processing Electromyography (EMG) signals to detect and classify hand/arm gestures. 
